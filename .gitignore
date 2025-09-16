@@ -1,0 +1,10 @@
+
+#rust
+target/
+Cargo.lock
+src/db_mem/
+
+taks.to.be.done.md
+src/connector.rs
+src/glob.rs
+src/lib.rs
