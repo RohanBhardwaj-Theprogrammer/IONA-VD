@@ -1,4 +1,4 @@
-#IONA-VD 
+## IONA-VD 
 
-this is a premature release of the multi-type database iona , currently being developed as the vector based database
-future plans include key-value pair, document model , sql  type(limited due interpreting the sql) ;
+A fun project to implement the vector database , from scratch 
+usoig the programming language,without any external libraries 
